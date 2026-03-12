@@ -1,9 +1,9 @@
 ---
-name: hh north-star-finder
+name: hh north-star-finder aj
 description: Identifies and validates your product's North Star metric with supporting input metrics. Use when finding North Star, defining success metrics, or when the user types /north-star. Apply for strategy, metric alignment, or team focus.
 ---
 
-# North Star Finder
+# hh North Star Finder
 
 Identify and validate your product's North Star metric with supporting input metrics.
 
