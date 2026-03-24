@@ -6,6 +6,7 @@ description: Identifies and validates your product's North Star metric with supp
 # hh North Star Finder
 
 Identify and validate your product's North Star metric with supporting input metrics.
+##Chnaging code to Test SHA Change, Scan trigger
 
 ## North Star Definition
 
